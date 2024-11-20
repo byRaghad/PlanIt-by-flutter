@@ -1,0 +1,9 @@
+{
+  "goodMorning": "Good Morning! Here are all your tasks:",
+  "goodAfternoon": "Good Afternoon! Here are all your tasks:",
+  "goodEvening": "Good Evening! Here are all your tasks:",
+  "goodNight": "Good Night! Here are all your tasks:",
+  "search": "Search",
+  "addTask": "Add a New Task",
+  "noTasks": "No tasks found. Add your first task now!"
+}
