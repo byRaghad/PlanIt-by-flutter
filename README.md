@@ -1,4 +1,4 @@
-# munjez
+# PlanIt
 
 A new Flutter project.
 
